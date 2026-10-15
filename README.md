@@ -1,4 +1,4 @@
-# Hey, I'm Arjun! 👋 (https://arjun-pm-portfolio.vercel.app/)
+# Hey, I'm Arjun! 👋 
 
 **Economics & Data Science @ UC Berkeley** • Aspiring Product Manager
 
@@ -19,7 +19,7 @@ products that leave things a little better than they found them
 - 📚 Product Analyst (contract) @ **UCertify**, edtech growth [Aug - Dec 2024]
 - 🎓 Fung Product Fellow • CS Mentors • Berkeley SkyDeck • Undergraduate Research Program
 - 👨‍💻 Deepening my knowledge in **agentic AI, LLM evals, and on-device AI**
-- 📬 Reach out to me at arjunmittal@berkeley.edu or on [LinkedIn](https://www.linkedin.com/in/arjun-mittal-63691a258/)
+- 📬 Reach out to me at arjunmittal@berkeley.edu or on [LinkedIn](https://www.linkedin.com/in/arjun-mittal-63691a258/) or through my website https://arjun-pm-portfolio.vercel.app/ !
 
 ---
 ## I Work With
