@@ -13,7 +13,7 @@ products that leave things a little better than they found them
 ---
 ## My Life
 
-- 👗 Product Management intern @ **Taelor AI** [June - Aug 2026]
+- 👕 Product Management intern @ **Taelor AI** [June - Aug 2026]
 - 🤖 Product Management intern @ **Morphic**, AI Agents team [June - July 2026]
 - ♻️ Product Analyst (contract) @ **Encora**, reusable foodware [Jan - July 2025]
 - 📚 Product Analyst (contract) @ **UCertify**, edtech growth [Aug - Dec 2024]
