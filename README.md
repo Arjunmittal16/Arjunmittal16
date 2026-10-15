@@ -4,7 +4,7 @@
 
 ## About Me
 
-I love building things at the intersection of **technology** and **sustainability**.
+I love building things at the intersection of **technology** and **business**.
 I'm drawn to the space where **data-driven thinking** meets **real user problems**,
 and I enjoy taking ideas from 0→1, especially when AI can make them faster, smarter,
 and more accessible. I'm always learning, shipping side projects, and looking for
